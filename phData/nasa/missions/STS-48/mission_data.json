@@ -1,0 +1,150 @@
+{
+  "id": "6375b4f7313d542fb5edac56",
+  "identifier": "STS-48",
+  "identifierLowercase": "sts-48",
+  "esID": "4NyzTZIB5gkSzr3q0Ebv",
+  "aliases": [
+    "PARE-1",
+    "PARE1"
+  ],
+  "startDate": "09/12/1991",
+  "endDate": "09/18/1991",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Discovery"
+  },
+  "people": [
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda50d",
+        "firstName": "Randall",
+        "middleName": "W.",
+        "lastName": "Berthold",
+        "emailAddress": "Randall_Berthold@qmgate.arc.nasa.gov",
+        "phone": "415-604-3408",
+        "versionInfo": {
+          "documentKey": "a03b4a4bb311438699df98d3d13817a4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Experiment Support Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4dc",
+        "firstName": "Philip",
+        "middleName": "K.",
+        "lastName": "Lane",
+        "emailAddress": "Phil_Lane@qmgate.arc.nasa.gov",
+        "phone": "415-604-6839",
+        "versionInfo": {
+          "documentKey": "52c93a82b08e4083b5e4a141a2175d84",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda510",
+        "firstName": "Robert",
+        "middleName": "",
+        "lastName": "Lavond",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "87e20da95d214a8d8e5262b1457c87b5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda511",
+        "firstName": "Dana",
+        "middleName": "",
+        "lastName": "Leonard",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "995c391c25894391958207b09babb206",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda50f",
+        "firstName": "Debra",
+        "middleName": "",
+        "lastName": "Reiss- Bubenheim",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "a40182b2f15144ac988cc500f1a3cf98",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda48a",
+        "firstName": "Todd",
+        "middleName": "",
+        "lastName": "Sweetland",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "50c4a623f837401fa038e214885a7948",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "55deba14146a4842968bd5b7107caf41",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/PARE.01"
+      }
+    ],
+    "experiment": [
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-45"
+      }
+    ],
+    "GLDS_Study": []
+  }
+}

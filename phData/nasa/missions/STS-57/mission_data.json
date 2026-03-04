@@ -1,0 +1,165 @@
+{
+  "id": "6375b4f7313d542fb5edac5a",
+  "identifier": "STS-57",
+  "identifierLowercase": "sts-57",
+  "esID": "5NyzTZIB5gkSzr3q0UYE",
+  "aliases": [
+    "PSE 3",
+    "PSE-3"
+  ],
+  "startDate": "06/21/1993",
+  "endDate": "07/01/1993",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Endeavor"
+  },
+  "people": [
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4db",
+        "firstName": "Joellen",
+        "middleName": "",
+        "lastName": "Jarvi",
+        "emailAddress": "",
+        "phone": "415-604-5682",
+        "versionInfo": {
+          "documentKey": "1a3851ab9c34430884853116827e62c6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4dc",
+        "firstName": "Philip",
+        "middleName": "K.",
+        "lastName": "Lane",
+        "emailAddress": "Phil_Lane@qmgate.arc.nasa.gov",
+        "phone": "415-604-6839",
+        "versionInfo": {
+          "documentKey": "52c93a82b08e4083b5e4a141a2175d84",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda510",
+        "firstName": "Robert",
+        "middleName": "",
+        "lastName": "Lavond",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "87e20da95d214a8d8e5262b1457c87b5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda511",
+        "firstName": "Dana",
+        "middleName": "",
+        "lastName": "Leonard",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "995c391c25894391958207b09babb206",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Experiment Support Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4d8",
+        "firstName": "Rita",
+        "middleName": "",
+        "lastName": "Briggs",
+        "emailAddress": "rbriggs@mail.arc.nasa.gov",
+        "phone": "1 (650) 604-1015",
+        "versionInfo": {
+          "documentKey": "0c30d5b4227643d99189b54afbc8d354",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Space Dermatology Foundation",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4d9",
+        "firstName": "Steve",
+        "middleName": "R.",
+        "lastName": "Kohn",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "31e20e13f08545039bb28369bb0a784e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4dd",
+        "firstName": "William",
+        "middleName": "W.",
+        "lastName": "Wilfinger",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4222545d83b6446dbaa105949a046b98",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "e0cc932dcb5f468f82b454820beff999",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/PSE.03"
+      }
+    ],
+    "experiment": [],
+    "GLDS_Study": []
+  }
+}

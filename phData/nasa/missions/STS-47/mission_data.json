@@ -1,0 +1,327 @@
+{
+  "id": "6375b4f7313d542fb5edac51",
+  "identifier": "STS-47",
+  "identifierLowercase": "sts-47",
+  "esID": "29yzTZIB5gkSzr3q0EbQ",
+  "aliases": [
+    "SLJ",
+    "SL J"
+  ],
+  "startDate": "09/12/1992",
+  "endDate": "09/20/1992",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Endeavor"
+  },
+  "people": [
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda418",
+        "firstName": "Patricia",
+        "middleName": "S.",
+        "lastName": "Cowings",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "c5b48547785047fcab50b08630d07af4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41a",
+        "firstName": "Joe",
+        "middleName": "",
+        "lastName": "Kamiya",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "e000b922167540f7a2efd6fab9509bd5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Yale University",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4a9",
+        "firstName": "Neal",
+        "middleName": "E.",
+        "lastName": "Miller",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f3b8644c1bd9430aa9b4c71d9b0279a6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Experiment Support Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda508",
+        "firstName": "Susan",
+        "middleName": "C.",
+        "lastName": "Zapalac",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "05e1a11ecf084e73a97ec5860fc5a051",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda415",
+        "firstName": "Gregory",
+        "middleName": "K.",
+        "lastName": "Schmidt",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "0a749a69250343399d188aa0daff367f",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda416",
+        "firstName": "Sally",
+        "middleName": "M.",
+        "lastName": "Schofield- Ball",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "cca2d48ef69d457e9c7de2dd949205eb",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Reed College",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda417",
+        "firstName": "Steven",
+        "middleName": "",
+        "lastName": "Black",
+        "emailAddress": "Steven.Black.reed.edu",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f131dffa2cba4e9cbff4035d4b3fc8e2",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Dalhousie University",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda48f",
+        "firstName": "Richard",
+        "middleName": "",
+        "lastName": "Wassersug",
+        "emailAddress": "tadpole@ac.dal.ca",
+        "phone": "902-494-2244",
+        "versionInfo": {
+          "documentKey": "cbf3b95474a742d6983bed173a31358c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda421",
+        "firstName": "Muriel",
+        "middleName": "D.",
+        "lastName": "Ross",
+        "emailAddress": "ross@neuron.arc.nasa.gov",
+        "phone": "415-604-5757",
+        "versionInfo": {
+          "documentKey": "2a3ad2b1db524e7cb1300450f6ecf304",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, San Francisco",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda419",
+        "firstName": "William (Bill)",
+        "middleName": "B.",
+        "lastName": "Toscano",
+        "emailAddress": "William_Toscano@qmgate.arc.nasa.gov",
+        "phone": "415-604-5724",
+        "versionInfo": {
+          "documentKey": "a45f56e2507a44b5b5c0fccacaeb6f00",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41b",
+        "firstName": "Thomas",
+        "middleName": "M.",
+        "lastName": "Stolarik",
+        "emailAddress": "Tom_Stolarik@qmgate.arc.nasa.gov",
+        "phone": "415-604-0139",
+        "versionInfo": {
+          "documentKey": "a6cdc659148140009ef46eb9ec2ed15c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41c",
+        "firstName": "David",
+        "middleName": "L.",
+        "lastName": "Pletcher",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "a59ca9eb37b54b1cb70a91ce326883c1",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41d",
+        "firstName": "Kenneth",
+        "middleName": "A.",
+        "lastName": "Souza",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f5f8554fb4a64ab09168aa06511e169c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda39d",
+        "firstName": "Paul",
+        "middleName": "X.",
+        "lastName": "Callahan",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "e65e9a57f7c148879fe0113f34b9b301",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Hardware Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda52d",
+        "firstName": "John",
+        "middleName": "P.",
+        "lastName": "Connolly",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "41ab52087326472b8b59ca23bf607e4c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "05487f0cff344f17939518bcab121b49",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/SL-J"
+      }
+    ],
+    "experiment": [
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-390"
+      },
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-21"
+      },
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-22"
+      }
+    ],
+    "GLDS_Study": []
+  }
+}

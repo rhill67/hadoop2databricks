@@ -1,0 +1,131 @@
+{
+  "id": "6375b4f7313d542fb5edac52",
+  "identifier": "STS-65",
+  "identifierLowercase": "sts-65",
+  "esID": "3NyzTZIB5gkSzr3q0EbX",
+  "aliases": [
+    "IML2",
+    "IML 2"
+  ],
+  "startDate": "07/08/1994",
+  "endDate": "07/23/1994",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Columbia"
+  },
+  "people": [
+    {
+      "institution": "Eastern Virginia Medical School",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda413",
+        "firstName": "Dorothy",
+        "middleName": "B.",
+        "lastName": "Spangenberg",
+        "emailAddress": "",
+        "phone": "804-446-5727",
+        "versionInfo": {
+          "documentKey": "b2cc7ea4d9784919b29720a9030c5f4e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda428",
+        "firstName": "A.",
+        "middleName": "Christopher",
+        "lastName": "Maese",
+        "emailAddress": "Christopher_Maese@qmgate.arc.nasa.gov",
+        "phone": "415-604-6633",
+        "versionInfo": {
+          "documentKey": "29783257178f499ea59293cdaf75586f",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4e4",
+        "firstName": "Ronald",
+        "middleName": "L.",
+        "lastName": "Schaefer",
+        "emailAddress": "ron_schaefer@qmgate.arc.nasa.gov",
+        "phone": "415-604-4438",
+        "versionInfo": {
+          "documentKey": "c208f8b3f4ff490e9bd95fc9247708eb",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Experiment Support Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda414",
+        "firstName": "Oliver",
+        "middleName": "",
+        "lastName": "Chee",
+        "emailAddress": "Oliver_Chee@qmgate.arc.nasa.gov",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "34a810b3fdd846f19d76ea5d44bb5226",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Texas Health Science Center",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4ba",
+        "firstName": "Michael",
+        "middleName": "L.",
+        "lastName": "Wiederhold",
+        "emailAddress": "wiederhold@uthscsa.edu",
+        "phone": "210-567-5655 ext. 5657",
+        "versionInfo": {
+          "documentKey": "bbc5d03e8a8e477e97b58399b23982db",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "2639af0cf5394fd891ddf8bd92e34e99",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/IML-2"
+      }
+    ],
+    "experiment": [
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-20"
+      }
+    ],
+    "GLDS_Study": []
+  }
+}

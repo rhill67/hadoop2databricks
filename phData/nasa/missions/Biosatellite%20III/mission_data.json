@@ -1,0 +1,485 @@
+{
+  "id": "6375b4f7313d542fb5edac49",
+  "identifier": "Biosatellite III",
+  "identifierLowercase": "biosatellite iii",
+  "esID": "09yzTZIB5gkSzr3q0Eab",
+  "aliases": [],
+  "startDate": "06/28/1969",
+  "endDate": "07/06/1969",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Thor%20Delta"
+  },
+  "people": [
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda20e",
+        "firstName": "W.",
+        "middleName": "Ross",
+        "lastName": "Adey",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "7c722bf9737a477c9527f3b8b6bba0b7",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda222",
+        "firstName": "J.",
+        "middleName": "I.",
+        "lastName": "Berkhout",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "541d28c16fc84b01874f12ddda0e5eab",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda22c",
+        "firstName": "E.",
+        "middleName": "",
+        "lastName": "Buchness",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "bd0108f57bb04e98a2e355a5861c9c32",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda24b",
+        "firstName": "R.",
+        "middleName": "",
+        "lastName": "Durham",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "f6a24d380ce043faa462b2ffea8d4dcf",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda270",
+        "firstName": "B.",
+        "middleName": "W.",
+        "lastName": "Grunbaum",
+        "emailAddress": "",
+        "phone": "(510)642-0569",
+        "versionInfo": {
+          "documentKey": "714919f6e46e499183d4f03bed35b871",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda276",
+        "firstName": "P.",
+        "middleName": "M.",
+        "lastName": "Hahn",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "f4899e6323c240b58b048eb1d8dc43c3",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda279",
+        "firstName": "J.",
+        "middleName": "",
+        "lastName": "Hanley",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "8588d493126d42b091f51947fd35b183",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda284",
+        "firstName": "T.",
+        "middleName": "",
+        "lastName": "Hoshizaki",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "f4c00b157eb14e6191982028c33f85b8",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda293",
+        "firstName": "D.",
+        "middleName": "W.",
+        "lastName": "Kiepert",
+        "emailAddress": "",
+        "phone": "(510)642-0569",
+        "versionInfo": {
+          "documentKey": "d82dbe18991f4e03900943085d605ca1",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda29b",
+        "firstName": "E.",
+        "middleName": "",
+        "lastName": "Kram",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "85fe8cef8c44489581e2486a61f4ba40",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Texas Woman's University",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2aa",
+        "firstName": "P.",
+        "middleName": "B.",
+        "lastName": "Mack",
+        "emailAddress": "",
+        "phone": "(817)898-3040",
+        "versionInfo": {
+          "documentKey": "cb120ec2c3b84463bd157a0bc09e0b3c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Southern California",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2bc",
+        "firstName": "J.",
+        "middleName": "P.",
+        "lastName": "Meehan",
+        "emailAddress": "",
+        "phone": "(213)740-8775",
+        "versionInfo": {
+          "documentKey": "bcbace1592b64a2793e572485c33f0ec",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2d3",
+        "firstName": "Nello",
+        "middleName": "",
+        "lastName": "Pace",
+        "emailAddress": "",
+        "phone": "(510)642-0569",
+        "versionInfo": {
+          "documentKey": "96dcc3521b8d4f28bcda49a42428e306",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Southern California",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2e3",
+        "firstName": "R.",
+        "middleName": "D.",
+        "lastName": "Rader",
+        "emailAddress": "",
+        "phone": "(213)740-8775",
+        "versionInfo": {
+          "documentKey": "3cf5e98a9213417b8ba72d9b0e673440",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2e4",
+        "firstName": "D.",
+        "middleName": "F.",
+        "lastName": "Rahlmann",
+        "emailAddress": "",
+        "phone": "(510)642-0569",
+        "versionInfo": {
+          "documentKey": "914a0950e3ca487c8f8c5fa7376d1073",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "National Aeronautics and Space Administration (NASA)",
+      "roles": [
+        "Program Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2ea",
+        "firstName": "Orr",
+        "middleName": "",
+        "lastName": "Reynolds",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "cd383c10d16e481189e44fe97ebb6f5e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Jet Propulsion Laboratory",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2eb",
+        "firstName": "J.",
+        "middleName": "H.",
+        "lastName": "Rho",
+        "emailAddress": "",
+        "phone": "818-354-4321",
+        "versionInfo": {
+          "documentKey": "3b75c417f85149bdbdce04f05dde206f",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2ed",
+        "firstName": "L.",
+        "middleName": "",
+        "lastName": "Rovner",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "b541fc401ade43fd85d02d5f07e97e59",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "National Aeronautics and Space Administration (NASA)",
+      "roles": [
+        "Program Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2f3",
+        "firstName": "Joseph",
+        "middleName": "",
+        "lastName": "Saunders",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "46cd8f6b470f4ad094910bebe8c69e03",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Berkeley",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda307",
+        "firstName": "G.",
+        "middleName": "D.",
+        "lastName": "Smith",
+        "emailAddress": "",
+        "phone": "(510)642-0569",
+        "versionInfo": {
+          "documentKey": "bae6850d260947e095e463d3f5592c58",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Jet Propulsion Laboratory",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda30c",
+        "firstName": "E.",
+        "middleName": "A.",
+        "lastName": "Spaeth",
+        "emailAddress": "",
+        "phone": "818-354-4321",
+        "versionInfo": {
+          "documentKey": "79988e86de374835b8f5b7e28efb0340",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda327",
+        "firstName": "D.",
+        "middleName": "O.",
+        "lastName": "Walter",
+        "emailAddress": "",
+        "phone": "(213)206-8331",
+        "versionInfo": {
+          "documentKey": "25bb317b2d664f9ab24d3a3ec36c15f3",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda32d",
+        "firstName": "Charles",
+        "middleName": "A.",
+        "lastName": "Wilson",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "3c842812635e408eb9fa65018af29336",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda50e",
+        "firstName": "Charles",
+        "middleName": "M.",
+        "lastName": "Winget",
+        "emailAddress": "Charles_Winget@qmgate.arc.nasa.gov",
+        "phone": "415-604-5753",
+        "versionInfo": {
+          "documentKey": "78115c750e51425285b50f3ccf88e0c6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "217206904b00479e8904ffcb22ededc5",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/BIO3"
+      }
+    ],
+    "experiment": [],
+    "GLDS_Study": []
+  }
+}

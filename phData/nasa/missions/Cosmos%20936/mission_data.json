@@ -1,0 +1,694 @@
+{
+  "id": "6375b4f7313d542fb5edac4b",
+  "identifier": "Cosmos 936",
+  "identifierLowercase": "cosmos 936",
+  "esID": "1dyzTZIB5gkSzr3q0Eaq",
+  "aliases": [],
+  "startDate": "08/03/1977",
+  "endDate": "08/22/1977",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Vostok"
+  },
+  "people": [
+    {
+      "institution": "American Lake Veteran's Administration Medical Center",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda21d",
+        "firstName": "David",
+        "middleName": "J.",
+        "lastName": "Baylink",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "e9293f5885684d7f86027a7910a8965d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "American Lake Veteran's Administration Medical Center",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda21d",
+        "firstName": "David",
+        "middleName": "J.",
+        "lastName": "Baylink",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "e9293f5885684d7f86027a7910a8965d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, San Francisco",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda3ca",
+        "firstName": "Eugene",
+        "middleName": "V.",
+        "lastName": "Benton",
+        "emailAddress": "evb@physics.usfca.edu",
+        "phone": "(415)666-6292",
+        "versionInfo": {
+          "documentKey": "532b0a4382b8477cacc479c22795c459",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda379",
+        "firstName": "Samuel",
+        "middleName": "",
+        "lastName": "Black",
+        "emailAddress": "",
+        "phone": "415-604-1121",
+        "versionInfo": {
+          "documentKey": "5e37bca782c843f593e73fb0f33d8988",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of San Francisco",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda230",
+        "firstName": "R.",
+        "middleName": "M.",
+        "lastName": "Cassou",
+        "emailAddress": "",
+        "phone": "(415)666-6292",
+        "versionInfo": {
+          "documentKey": "4174aaa2d7304d83987e68ee209ca996",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Jet Propulsion Laboratory",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda231",
+        "firstName": "Kenneth",
+        "middleName": "R.",
+        "lastName": "Castleman",
+        "emailAddress": "",
+        "phone": "818-354-4321",
+        "versionInfo": {
+          "documentKey": "cba4f82f2f204c6bb5583cd72b9c13b0",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "",
+      "roles": [
+        "Program Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda232",
+        "firstName": "R.",
+        "middleName": "",
+        "lastName": "Farrell",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "8db34d096e6d4918a507ceeff084a76c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Southern California",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda238",
+        "firstName": "Louis",
+        "middleName": "A.",
+        "lastName": "Chui",
+        "emailAddress": "",
+        "phone": "(213)740-8775",
+        "versionInfo": {
+          "documentKey": "6d8fbada9f374d359b2c11dfa380813b",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda37a",
+        "firstName": "Robert",
+        "middleName": "L.",
+        "lastName": "Corbett",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "1040dc27b0e44363954dc5ff4357b4e2",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda245",
+        "firstName": "D.",
+        "middleName": "",
+        "lastName": "Dayhoff",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4aa19545c2b54666ba69db9d2ed6e1ef",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, San Francisco",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda33a",
+        "firstName": "A.",
+        "middleName": "L.",
+        "lastName": "Frank",
+        "emailAddress": "",
+        "phone": "(415)666-6292",
+        "versionInfo": {
+          "documentKey": "f73c4481d9874d0d9a1b73b18edbdf72",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda27c",
+        "firstName": "Gladys",
+        "middleName": "",
+        "lastName": "Harrison",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "c230ae294370457b90966e9f2f28b10b",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of San Francisco",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda27e",
+        "firstName": "R.",
+        "middleName": "P.",
+        "lastName": "Henke",
+        "emailAddress": "",
+        "phone": "(415)666-6292",
+        "versionInfo": {
+          "documentKey": "594a661323c744dcaf266c655db010e7",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Veteran's Administration Hospital",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2a0",
+        "firstName": "Stephen",
+        "middleName": "A.",
+        "lastName": "Landaw",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "ee60abc175c341a5a48163d55fb95584",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2a4",
+        "firstName": "R.",
+        "middleName": "",
+        "lastName": "Lee",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "621b8f2c3dce403faa6e3a8dc70ad857",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda3d5",
+        "firstName": "Henry",
+        "middleName": "A.",
+        "lastName": "Leon",
+        "emailAddress": "",
+        "phone": "415-604-5163",
+        "versionInfo": {
+          "documentKey": "799bd5e47f134e3f98b793bcd10c65a3",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Bruce Lyon Memorial Research Laboratory",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2a6",
+        "firstName": "Chen",
+        "middleName": "Y.",
+        "lastName": "Lin",
+        "emailAddress": "",
+        "phone": "(510)428-3502",
+        "versionInfo": {
+          "documentKey": "df46df75e6034faf8c24791f3d3fe862",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2b9",
+        "firstName": "J.",
+        "middleName": "",
+        "lastName": "McGourty",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "d6acac8129534ca396fe3c501264a259",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4c3",
+        "firstName": "Emily",
+        "middleName": "R.",
+        "lastName": "Morey- Holton",
+        "emailAddress": "",
+        "phone": "415-694-5471",
+        "versionInfo": {
+          "documentKey": "b182434b7a62496a9bdddd18fffb496e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of San Francisco",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2d8",
+        "firstName": "D.",
+        "middleName": "D.",
+        "lastName": "Peterson",
+        "emailAddress": "",
+        "phone": "(415)666-6292",
+        "versionInfo": {
+          "documentKey": "d06eab185f5c4c7db607a147a3388922",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda3e0",
+        "firstName": "Delbert",
+        "middleName": "E.",
+        "lastName": "Philpott",
+        "emailAddress": "",
+        "phone": "415-604-5219",
+        "versionInfo": {
+          "documentKey": "e3e012d74d33438c98b7cbf55f87f835",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda363",
+        "firstName": "Luba",
+        "middleName": "V.",
+        "lastName": "Serova",
+        "emailAddress": "",
+        "phone": "7-095-195-00-33",
+        "versionInfo": {
+          "documentKey": "a818f2f0dcbe49038c88978b2828431d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2fe",
+        "firstName": "V.",
+        "middleName": "N.",
+        "lastName": "Shvets",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "bfdcdd5a9f4343bead881539aaa0aef3",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41d",
+        "firstName": "Kenneth",
+        "middleName": "A.",
+        "lastName": "Souza",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f5f8554fb4a64ab09168aa06511e169c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda3ce",
+        "firstName": "Charles",
+        "middleName": "E.",
+        "lastName": "Turnbill",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "b4c207f3cffc4795b311b1902d416c31",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "American Lake Veteran's Administration Medical Center",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4c5",
+        "firstName": "Russell",
+        "middleName": "T.",
+        "lastName": "Turner",
+        "emailAddress": "Russell.Turner@oregonstate.edu",
+        "phone": "541-737-9545",
+        "versionInfo": {
+          "documentKey": "3065e4f102c941749a26c238f645734a",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Southern California",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda31d",
+        "firstName": "Joseph",
+        "middleName": "P.",
+        "lastName": "Van Der Meulen",
+        "emailAddress": "",
+        "phone": "(213)740-8775",
+        "versionInfo": {
+          "documentKey": "4cba9091e982444297d1d85a4d48628d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda324",
+        "firstName": "C.",
+        "middleName": "",
+        "lastName": "Volkmann",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "42c6bb8607ee4e809d582999cad6665b",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Project Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda338",
+        "firstName": "Robert",
+        "middleName": "W.",
+        "lastName": "Mah",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "d1a2680257cd4d8f893fb42968c2ba43",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4c3",
+        "firstName": "Emily",
+        "middleName": "R.",
+        "lastName": "Morey- Holton",
+        "emailAddress": "",
+        "phone": "415-694-5471",
+        "versionInfo": {
+          "documentKey": "b182434b7a62496a9bdddd18fffb496e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda3e0",
+        "firstName": "Delbert",
+        "middleName": "E.",
+        "lastName": "Philpott",
+        "emailAddress": "",
+        "phone": "415-604-5219",
+        "versionInfo": {
+          "documentKey": "e3e012d74d33438c98b7cbf55f87f835",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda41d",
+        "firstName": "Kenneth",
+        "middleName": "A.",
+        "lastName": "Souza",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f5f8554fb4a64ab09168aa06511e169c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda338",
+        "firstName": "Robert",
+        "middleName": "W.",
+        "lastName": "Mah",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "d1a2680257cd4d8f893fb42968c2ba43",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Bruce Lyon Memorial Research Laboratory",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda20c",
+        "firstName": "S.",
+        "middleName": "",
+        "lastName": "Abraham",
+        "emailAddress": "",
+        "phone": "(510)428-3502",
+        "versionInfo": {
+          "documentKey": "48765efd881547a4ba7918ced5e67c46",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Linus Pauling Institute of Science and Medicine",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2c1",
+        "firstName": "Jamie",
+        "middleName": "",
+        "lastName": "Miquel",
+        "emailAddress": "",
+        "phone": "415-327-4064",
+        "versionInfo": {
+          "documentKey": "1c32d87107f84e85bec8b9fbfc274844",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "c875d6c94a7b4be5b4e268d21a321ccb",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/Bion%204"
+      }
+    ],
+    "experiment": [],
+    "GLDS_Study": []
+  }
+}

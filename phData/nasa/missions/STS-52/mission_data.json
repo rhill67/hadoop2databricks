@@ -1,0 +1,184 @@
+{
+  "id": "6375b4f7313d542fb5edac57",
+  "identifier": "STS-52",
+  "identifierLowercase": "sts-52",
+  "esID": "4dyzTZIB5gkSzr3q0Eb0",
+  "aliases": [
+    "PSE 2",
+    "PSE-2"
+  ],
+  "startDate": "10/22/1992",
+  "endDate": "11/01/1992",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Columbia"
+  },
+  "people": [
+    {
+      "institution": "Pennsylvania  State University",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4de",
+        "firstName": "Wesley",
+        "middleName": "C.",
+        "lastName": "Hymer",
+        "emailAddress": "WCH@psuvm.psu.edu",
+        "phone": "(814)865-9182",
+        "versionInfo": {
+          "documentKey": "0a7f069e579340c3958157c883f3e178",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4db",
+        "firstName": "Joellen",
+        "middleName": "",
+        "lastName": "Jarvi",
+        "emailAddress": "",
+        "phone": "415-604-5682",
+        "versionInfo": {
+          "documentKey": "1a3851ab9c34430884853116827e62c6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda510",
+        "firstName": "Robert",
+        "middleName": "",
+        "lastName": "Lavond",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "87e20da95d214a8d8e5262b1457c87b5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda511",
+        "firstName": "Dana",
+        "middleName": "",
+        "lastName": "Leonard",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "995c391c25894391958207b09babb206",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4d5",
+        "firstName": "Nichola",
+        "middleName": "K.",
+        "lastName": "Hawes",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "fef9def0fc78446a88f4cb8c7934e516",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4d6",
+        "firstName": "Kim",
+        "middleName": "",
+        "lastName": "Hines",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f14113d10e8e4b1bb21b20f8482d3ea4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Merck & Company, Inc.",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4d7",
+        "firstName": "Gideon",
+        "middleName": "A.",
+        "lastName": "Rodan",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "89320aa5234a4177bbf59babe44adadf",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Pennsylvania State University",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4dd",
+        "firstName": "William",
+        "middleName": "W.",
+        "lastName": "Wilfinger",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4222545d83b6446dbaa105949a046b98",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "fc485ce6a18341acb0ebf8fb9b752527",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/PSE.02"
+      }
+    ],
+    "experiment": [],
+    "GLDS_Study": []
+  }
+}

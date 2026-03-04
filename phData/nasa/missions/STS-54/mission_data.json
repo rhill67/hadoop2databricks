@@ -1,0 +1,362 @@
+{
+  "id": "6375b4f7313d542fb5edac58",
+  "identifier": "STS-54",
+  "identifierLowercase": "sts-54",
+  "esID": "4tyzTZIB5gkSzr3q0Eb6",
+  "aliases": [
+    "PARE 2",
+    "PARE-2"
+  ],
+  "startDate": "01/13/1993",
+  "endDate": "01/19/1993",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Endeavor"
+  },
+  "people": [
+    {
+      "institution": "University of California, Irvine",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda437",
+        "firstName": "Kenneth",
+        "middleName": "M.",
+        "lastName": "Baldwin",
+        "emailAddress": "",
+        "phone": "714-856-5863",
+        "versionInfo": {
+          "documentKey": "5e8b667a86e346d7bd164ba9b616f70d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda50d",
+        "firstName": "Randall",
+        "middleName": "W.",
+        "lastName": "Berthold",
+        "emailAddress": "Randall_Berthold@qmgate.arc.nasa.gov",
+        "phone": "415-604-3408",
+        "versionInfo": {
+          "documentKey": "a03b4a4bb311438699df98d3d13817a4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, San Francisco",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda43a",
+        "firstName": "Daniel",
+        "middleName": "D.",
+        "lastName": "Bikle",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "a2ca2ddaa0a44cd3973527f714a635d8",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of California, Irvine",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda444",
+        "firstName": "Vince",
+        "middleName": "J.",
+        "lastName": "Caiozzo",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "0f7095257b0148a6a8c56deb3dc0399c",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Tennessee",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda44b",
+        "firstName": "D.",
+        "middleName": "M.",
+        "lastName": "Desiderio",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "9a4a0fec45a54d39a2a7bd389aa0f1eb",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Houghten Pharmaceuticals, Inc.",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda455",
+        "firstName": "Beverly",
+        "middleName": "",
+        "lastName": "Girten",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4e6fe968ae1949ac930903c19de2f204",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "VA Medical Center",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4c1",
+        "firstName": "Bernard",
+        "middleName": "P.",
+        "lastName": "Halloran",
+        "emailAddress": "",
+        "phone": "415-750-6928",
+        "versionInfo": {
+          "documentKey": "d85f14b5e321466fa33545c6febe0f11",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda45a",
+        "firstName": "Jonathan",
+        "middleName": "",
+        "lastName": "Harris",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4c9e105706c14031aceeb675455665a6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4dc",
+        "firstName": "Philip",
+        "middleName": "K.",
+        "lastName": "Lane",
+        "emailAddress": "Phil_Lane@qmgate.arc.nasa.gov",
+        "phone": "415-604-6839",
+        "versionInfo": {
+          "documentKey": "52c93a82b08e4083b5e4a141a2175d84",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Deputy Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda510",
+        "firstName": "Robert",
+        "middleName": "",
+        "lastName": "Lavond",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "87e20da95d214a8d8e5262b1457c87b5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Houghten Pharmaceuticals, Inc.",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda469",
+        "firstName": "Mona",
+        "middleName": "",
+        "lastName": "Lee",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "e24ee69303ad465e9893ef942c129308",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda511",
+        "firstName": "Dana",
+        "middleName": "",
+        "lastName": "Leonard",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "995c391c25894391958207b09babb206",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "University of Louisville",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda470",
+        "firstName": "Edwin",
+        "middleName": "S.",
+        "lastName": "Miller",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "69274e96b58d44a9993cfaa185f2c7f3",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Canadian Space Agency",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda472",
+        "firstName": "Alan",
+        "middleName": "",
+        "lastName": "Mortimer",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "fb07013962e84859abe7dcff8bc716fd",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Houghten Pharmaceuticals, Inc.",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda48d",
+        "firstName": "Ronald",
+        "middleName": "",
+        "lastName": "Tuttle",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "53b1c3fb69e74cbb8b7188673bc9323b",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4c3",
+        "firstName": "Emily",
+        "middleName": "R.",
+        "lastName": "Morey- Holton",
+        "emailAddress": "",
+        "phone": "415-694-5471",
+        "versionInfo": {
+          "documentKey": "b182434b7a62496a9bdddd18fffb496e",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Naval Hospital Laboratory",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda536",
+        "firstName": "Dennis",
+        "middleName": "A.",
+        "lastName": "Rowley",
+        "emailAddress": "darowley@pnh10.med.navy.mil",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "07b3dd24437142d685f0ddca491c9951",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "d058987294af455fadd5120302e51a97",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/PARE.02"
+      },
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/BSP54"
+      }
+    ],
+    "experiment": [
+      {
+        "experiment": "https://osdr.nasa.gov/geode-py/ws/api/experiment/OS-47"
+      }
+    ],
+    "GLDS_Study": []
+  }
+}

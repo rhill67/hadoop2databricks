@@ -1,0 +1,333 @@
+{
+  "id": "6375b4f7313d542fb5edac4e",
+  "identifier": "Cosmos 1667",
+  "identifierLowercase": "cosmos 1667",
+  "esID": "2NyzTZIB5gkSzr3q0Ea9",
+  "aliases": [],
+  "startDate": "07/10/1985",
+  "endDate": "07/17/1985",
+  "files": [],
+  "vehicle": {
+    "vehicle": "https://osdr.nasa.gov/geode-py/ws/api/vehicle/Vostok"
+  },
+  "people": [
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda20f",
+        "firstName": "Elwood",
+        "middleName": "F.",
+        "lastName": "Agasid",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f67b865403774866958bcc9505b0d24d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda21e",
+        "firstName": "E.",
+        "middleName": "G.",
+        "lastName": "Bazunova",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "4fe92a78e2b64746b13b48685f805af9",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda21f",
+        "firstName": "A.",
+        "middleName": "O.",
+        "lastName": "Belgorodsky",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "65a8cd2364654584a7cfb6a90a42c1d9",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Headquarters (HQ)",
+      "roles": [
+        "Program Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda442",
+        "firstName": "Larry",
+        "middleName": "",
+        "lastName": "Chambers",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "55d935d1c11c4a119addd271e115a7f6",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda255",
+        "firstName": "Y.",
+        "middleName": "A.",
+        "lastName": "Estratov",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "85e2ca3805d240539261e07ab464c848",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda268",
+        "firstName": "Edward",
+        "middleName": "W.",
+        "lastName": "Gomersall",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "43042799e2af48b5856af90de8a659db",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda280",
+        "firstName": "John",
+        "middleName": "W.",
+        "lastName": "Hines",
+        "emailAddress": "",
+        "phone": "415-604-5538",
+        "versionInfo": {
+          "documentKey": "57be76f829244f37b77b437fcd3201f9",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4b0",
+        "firstName": "Vladimir",
+        "middleName": "P.",
+        "lastName": "Krotov",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "9f3c5c1c56a84edea7f76a2a060d82d5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2ab",
+        "firstName": "R.",
+        "middleName": "",
+        "lastName": "MacKenzie",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "b05e2bf0e90442af8b5f5e3d7d79ca06",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "Institute of Biomedical Problems (IBMP)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2cb",
+        "firstName": "A.",
+        "middleName": "N.",
+        "lastName": "Nazin",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "8fcc2bfb27ce4c3aac2cc024de9caf0d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda2d1",
+        "firstName": "Robert",
+        "middleName": "R.",
+        "lastName": "Osaki",
+        "emailAddress": "",
+        "phone": "415-604-0566",
+        "versionInfo": {
+          "documentKey": "2bcaa8b2089a44618c59566ebb56e97b",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Principal Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda339",
+        "firstName": "Harold",
+        "middleName": "",
+        "lastName": "Sandler",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "1dd6073072f640b18f0d836aec1c6de4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "Co-Investigator"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda4a6",
+        "firstName": "Michael",
+        "middleName": "G.",
+        "lastName": "Skidmore",
+        "emailAddress": "mskidmore@mail.arc.nasa.gov",
+        "phone": "650-604-6069",
+        "versionInfo": {
+          "documentKey": "fbe2ad2969ab42bb858bd6d9d44994d5",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Scientist"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda339",
+        "firstName": "Harold",
+        "middleName": "",
+        "lastName": "Sandler",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "1dd6073072f640b18f0d836aec1c6de4",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Project Engineer"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda280",
+        "firstName": "John",
+        "middleName": "W.",
+        "lastName": "Hines",
+        "emailAddress": "",
+        "phone": "415-604-5538",
+        "versionInfo": {
+          "documentKey": "57be76f829244f37b77b437fcd3201f9",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    },
+    {
+      "institution": "NASA Ames Research Center (ARC)",
+      "roles": [
+        "ARC Payload Manager"
+      ],
+      "person": {
+        "id": "6375b4f6313d542fb5eda20f",
+        "firstName": "Elwood",
+        "middleName": "F.",
+        "lastName": "Agasid",
+        "emailAddress": "",
+        "phone": "",
+        "versionInfo": {
+          "documentKey": "f67b865403774866958bcc9505b0d24d",
+          "version": 1,
+          "deleted": false
+        }
+      }
+    }
+  ],
+  "versionInfo": {
+    "documentKey": "d63459f78f3a499fb3c0c24ea494df20",
+    "version": 1,
+    "deleted": false
+  },
+  "parents": {
+    "payload": [
+      {
+        "payload": "https://osdr.nasa.gov/geode-py/ws/api/payload/Bion%207"
+      }
+    ],
+    "experiment": [],
+    "GLDS_Study": []
+  }
+}
