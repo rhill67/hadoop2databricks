@@ -1,6 +1,6 @@
 variable "databricks_host" {
   type        = string
-  description = "https://dbc-0d2de041-0845.cloud.databricks.com" 
+  description = "https://dbc-0d2de041-0845.cloud.databricks.com"
 }
 
 variable "databricks_token" {
@@ -10,8 +10,8 @@ variable "databricks_token" {
 }
 
 variable "project_prefix" {
-  type        = string
-  default     = "phdata-hadoop2databricks"
+  type    = string
+  default = "phdata-hadoop2databricks"
 }
 
 # Choose ONE:

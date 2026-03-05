@@ -1,0 +1,32 @@
+# Terraform State Files and backups
+*.tfstate
+*.tfstate.*
+
+# The .terraform directory (Terraform modules and provider binaries)
+.terraform/
+
+# Variable files that may contain sensitive data
+*.tfvars
+*.tfvars.json
+
+# Terraform CLI configuration files
+.terraformrc
+terraform.rc
+
+# Crash log files
+crash.log
+crash.*.log
+
+# Output of terraform plan -out
+*tfplan*
+
+# Override files, generally used for local testing and not meant for version control
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# OS and IDE-specific files
+.DS_Store # macOS
+.vscode/ # VS Code specific settings
+.idea/ # IntelliJ IDEA specific settings

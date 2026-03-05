@@ -26,10 +26,7 @@ resource "databricks_job" "medallion_job" {
     }
 
     # Option 1: use existing cluster
-    dynamic "existing_cluster_id" {
-      for_each = var.existing_cluster_id != "" ? [1] : []
-      content  = var.existing_cluster_id
-    }
+    existing_cluster_id = var.existing_cluster_id
   }
 
   task {
@@ -41,10 +38,7 @@ resource "databricks_job" "medallion_job" {
       notebook_path = databricks_notebook.silver.path
     }
 
-    dynamic "existing_cluster_id" {
-      for_each = var.existing_cluster_id != "" ? [1] : []
-      content  = var.existing_cluster_id
-    }
+    existing_cluster_id = var.existing_cluster_id
   }
 
   task {
@@ -56,9 +50,6 @@ resource "databricks_job" "medallion_job" {
       notebook_path = databricks_notebook.gold.path
     }
 
-    dynamic "existing_cluster_id" {
-      for_each = var.existing_cluster_id != "" ? [1] : []
-      content  = var.existing_cluster_id
-    }
+    existing_cluster_id = var.existing_cluster_id
   }
 }
