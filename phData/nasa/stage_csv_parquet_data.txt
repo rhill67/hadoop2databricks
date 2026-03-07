@@ -1,0 +1,17 @@
+### Manual efforts ### 
+
+// Creating AWS s3 bucket directory structure // 
+
+S3 Bucket path : s3://hadoop2databricks/landing/nasa/
+
+aws s3api put-object --bucket hadoop2databricks --key landing/nasa
+aws s3api put-object --bucket hadoop2databricks --key landing/nasa/csv/
+aws s3api put-object --bucket hadoop2databricks --key landing/nasa/parquet/ 
+
+// get the csv files in the format that we need // 
+nasa$ for i in $(ls missions/) ; do  ./flatten_missions.py --input missions/$i/mission_data.json --output missions/$i/$i"_
+mission_data.csv"; done
+
+// upload raw csv and parquet data files into appropriate landing areas // 
+for i in $(find missions/ -name *.csv); do  aws s3 cp $i s3://hadoop2databricks/landing/nasa/csv/ ; done
+for i in $(find missions/ -name *.parquet); do  aws s3 cp $i s3://hadoop2databricks/landing/nasa/parquet/ ; done
