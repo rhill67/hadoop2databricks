@@ -360,3 +360,5 @@ Cloud Data Architect
 
 GitHub:  
 https://github.com/rhill67
+Copyright © 2026 Roger Hill
+All rights reserved.
